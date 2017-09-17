@@ -1,6 +1,5 @@
 *.*~
 *.pyc
-*.ipynb
 data/*.tsv
 data/*.csv
 logs/*
